@@ -1,0 +1,17 @@
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.deps.json
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.json
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.runtimeconfig.dev.json
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.Tests.pdb
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\bin\Debug\netcoreapp2.0\SportStore.pdb
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csprojAssemblyReference.cache
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.AssemblyInfo.cs
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.csproj.CopyComplete
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore.Tests\obj\Debug\netcoreapp2.0\SportStore.Tests.pdb

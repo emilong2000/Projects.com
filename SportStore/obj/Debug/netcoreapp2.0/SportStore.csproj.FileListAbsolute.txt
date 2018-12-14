@@ -1,0 +1,13 @@
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.deps.json
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.json
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.dev.json
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfoInputs.cache
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfo.cs
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\bin\Debug\netcoreapp2.0\SportStore.pdb
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.dll
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.Properties.Resources.resources
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csproj.GenerateResource.cache
+C:\Users\Emilong\Documents\Visual Studio 2017\Projects\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojAssemblyReference.cache
